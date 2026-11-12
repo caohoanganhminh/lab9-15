@@ -1,0 +1,1 @@
+<!doctype html><html lang="vi"><meta charset="utf-8"><title>Bài 13 - RSS</title><h1>Bài 13 - Tạo RSS cho trang web</h1><p>Feed RSS 2.0 đã tạo từ dữ liệu trong bảng <code>news</code>.</p><p><a href="rss.php">Mở RSS feed</a></p><p><a href="../">Trang chủ</a></p></html>
